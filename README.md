@@ -51,4 +51,8 @@ should run a script or application that follows this basic workflow:
 * [Amazon Elastic Container Registry pricing](https://aws.amazon.com/ecr/pricing/)
 * [AWS Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
 * **Summary:**  Deploying this function and CF will fall under the free tier 
-for both ECR and lambda if running for some simple tests.  
+for both ECR and lambda if running for some simple tests.
+  
+
+---
+[Buy me a cup of coffee](https://www.buymeacoffee.com/rkhtech)
